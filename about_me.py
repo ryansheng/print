@@ -15,6 +15,8 @@ Previous Career:{'':9}{career} \n
 Why I'm learning to code: \n
 "Because I think coding is a fun challenage." \n
 
+
+
 Fun fact: I lodt three teeth in one month.
 
 {'':=^50}
