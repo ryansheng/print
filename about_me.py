@@ -2,7 +2,6 @@ first_name = "Ryan"
 last_name = "You"
 age = 49
 city = "Arcadia"
-career ="IT Support"
 
 
 print(f"""{'':=^50}\n
