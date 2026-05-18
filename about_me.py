@@ -1,14 +1,12 @@
 first_name = "Ryan"
 last_name = "You"
-age = 49
 city = "Arcadia"
-
 
 print(f"""{'':=^50}\n
 {'':20} Studdent Profile \n
 {'':=^50} \n
 Name:{'':20}{first_name+' '+last_name} \n
-Age:{'':21}{age} \n
+Age:{'':21}{0} \n
 City:{'':20}{city} \n
 Previous Career:{'':9}{career} \n
 
